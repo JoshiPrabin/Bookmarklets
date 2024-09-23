@@ -1,4 +1,4 @@
-Steps to Create a Bookmarklet:
+**Steps to Create a Bookmarklet:**
 
 1. In your web browser (like Chrome, Firefox, or Safari), open the Bookmarks bar:
 
